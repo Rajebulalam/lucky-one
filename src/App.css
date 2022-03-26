@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.title{
+  text-align: center;
+}
+.title h2{
+  font-size: 2rem;
+  font-weight: 800;
+  color: green;
+  margin-bottom: 10px;
+}
+.title p{
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+}

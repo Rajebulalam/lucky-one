@@ -41,6 +41,7 @@ const Shop = () => {
 
     const removeCart = () => {
         setCart([]);
+        setRandom([]);
     }
 
     return (

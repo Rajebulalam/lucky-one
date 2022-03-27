@@ -1,6 +1,6 @@
 # Sunglass 
 
-This project was bootstrapped with [Create React App](https://stylish-sunglass.netlify.app/).
+This project was bootstrapped with [stylish-sunglass](https://stylish-sunglass.netlify.app/).
 
 ## Available Scripts
 

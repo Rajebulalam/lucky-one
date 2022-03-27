@@ -6,8 +6,8 @@
 .products-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 30px;
-    padding: 0 100px;
+    grid-gap: 20px;
+    padding: 0 30px;
 }
 .cart-container{
     width: 100%;

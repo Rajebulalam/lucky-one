@@ -23,16 +23,14 @@
 
     .shop-container {
       grid-template-columns: 1fr;
-      grid-gap: 0;
-      grid-row-gap: 30px;
     }
     .products-container {
       grid-template-columns: repeat(1, 1fr);
       padding: 0 40px;
       margin-bottom: 30px;
     }
-    .cart-container {
-        margin: 20px;
+    .cart-container{
+      box-shadow: none;
     }
   
   }

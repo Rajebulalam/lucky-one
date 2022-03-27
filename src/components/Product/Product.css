@@ -40,3 +40,16 @@
     background-color: green;
     color: #fff
 }
+
+@media only screen and (min-width: 200px) and (max-width: 991px) {
+
+    .product-container{
+        width: 95%;
+
+    }
+    .product-container img{
+        width: 95%;
+        height: auto;
+    }
+  
+  }

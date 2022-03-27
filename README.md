@@ -1,6 +1,6 @@
 # Sunglass 
 
-This project was bootstrapped with [stylish-sunglass](https://stylish-sunglass.netlify.app/).
+This project live link [stylish-sunglass](https://stylish-sunglass.netlify.app/).
 
 ## Available Scripts
 
